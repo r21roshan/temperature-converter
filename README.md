@@ -1,2 +1,2 @@
 https://fahrenheir-converter-js.netlify.app
-check the above link for the output
+temperature converter from fahrenheit to celcius using html, css, javascript check the output on the link
